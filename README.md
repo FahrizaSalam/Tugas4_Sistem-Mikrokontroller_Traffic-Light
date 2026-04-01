@@ -1,5 +1,7 @@
 NAMA : Muhammad Aziz Ihza Fahriza Salam
+
 NIM : H1H024050
+
 Mata Kuliah : Sistem Mikrokontroler
 
 LAPORAN MINI PROJECT : PENERAPAN KENDALI GPIO PADA TRAFFIC LIGHT 4 ARAH DENGAN ARDUINO UNO
