@@ -22,7 +22,7 @@ d)	12 buah Resistor (220 Ohm)
 
 e)	Kabel Jumper
 
-3.	Konfigurasi pin
+2.	Konfigurasi pin
 
 Simpang Utara
 
@@ -35,30 +35,50 @@ c)	 Hijau dihubungkan ke Pin 11
 Simpang Timur
 
 a)	 Merah dihubungkan ke Pin 10
+
 b)	 Kuning dihubungkan ke Pin 9
+
 c)	 Hijau dihubungkan ke Pin 8
+
 Simpang Selatan
+
 a)	 Merah dihubungkan ke Pin 7
+
 b)	 Kuning dihubungkan ke Pin 6
+
 c)	 Hijau dihubungkan ke Pin 5
+
 Simpang Barat
+
 a)	 Merah dihubungkan ke Pin 4
+
 b)	 Kuning dihubungkan ke Pin 3
+
 c)	 Hijau dihubungkan ke Pin 2
 
-5.	Aturan Sistem
+3.	Aturan Sistem
+
 a)	Tidak boleh ada lebih dari satu sisi hijau secara bersamaan.
+
 b)	Sistem harus berjalan terus menerus (loop).
+
 c)	Gunakan fungsi untuk modularisasi (misalnya: aktifkanSimpang()).
 
-6.	Cara Sistem Berjalan (Spesifikasi Tugas)
+4.	Cara Sistem Berjalan
+
 a)	Sistem harus bekerja secara otomatis dan berulang (looping).
+
 b)	Kondisi default: Semua lampu dalam kondisi MERAH sebelum satu sisi aktif.
+
 c)	Lampu hijau menyala bergiliran searah jarum jam dengan urutan: Utara > Timur > Selatan > Barat > ulangi.
+
 d)	Ketentuan waktu nyala lampu:
+
 •	Lampu Hijau: Menyala selama 5 detik.
+
 •	Lampu Kuning: Diberikan efek kedip 3 kali dan menyala selama 2 detik.
+
 •	Lampu Merah: Menyala kembali setelah hijau selesai.
 
-7.	Link Simulasi Tinkercad : https://www.tinkercad.com/things/0zeyPHZUMmZ-tugas4sistem-mikrokontroler
+5.	Link Simulasi Tinkercad : https://www.tinkercad.com/things/0zeyPHZUMmZ-tugas4sistem-mikrokontroler
 
